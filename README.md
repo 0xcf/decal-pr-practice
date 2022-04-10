@@ -5,5 +5,5 @@ the repo, open README.md and edit the sentence below so that it says your name
 instead of "Tux the Penguin", and submit a pull request!
 
 ```
-Hello, my name is Tzu-Ching and I just made a pull request!
+Hello, my name is TZU-CHING and I just made a pull request!
 ```
