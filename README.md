@@ -6,4 +6,4 @@ instead of "Tux the Penguin", and submit a pull request!
 
 ```
 Hello, my name is Manas Trivedi and I just made a pull request!
-```
+
