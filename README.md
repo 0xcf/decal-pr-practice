@@ -1,3 +1,6 @@
+# THIS REPO IS ARCHIVED
+### Please use [https://github.com/ocf/decal-pr-practice](https://github.com/ocf/decal-pr-practice) for Lab 8
+
 ## Pull request practice
 
 This repo is for part 2 of the beginner DeCal's Git/version control lab. Fork
